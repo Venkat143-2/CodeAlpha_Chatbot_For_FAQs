@@ -7,9 +7,9 @@ A desktop-based AI chatbot designed to automate customer support by answering Fr
 
 ## 💡 What is this Project?
 
-This project is an automated conversational agent (chatbot) built to handle customer or user inquiries without human intervention. Instead of forcing users to scroll through a long, static FAQ webpage, this chatbot allows them to type questions in plain, natural English.
+*This project is an automated conversational agent (chatbot) built to handle customer or user inquiries without human intervention. Instead of forcing users to scroll through a long, static FAQ webpage, this chatbot allows them to type questions in plain, natural English.
 
-The application acts as a smart matching engine. It processes the user's text, strips out fluff words, analyzes the core intent, and mathematically determines which question in your pre-collected database is the closest match, instantly printing the corresponding answer.
+*The application acts as a smart matching engine. It processes the user's text, strips out fluff words, analyzes the core intent, and mathematically determines which question in your pre-collected database is the closest match, instantly printing the corresponding answer.
 
 ---
 
